@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.god.HangmenTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2016-07-09T08:35:15" hostname="feng" time="0.008">
+  <properties/>
+  <testcase name="should_return_false_given_apple_when_guess_r" classname="com.god.HangmenTest" time="0.005"/>
+  <testcase name="show_properties_when_word_is_apple" classname="com.god.HangmenTest" time="0.001"/>
+  <testcase name="show_propertiex_when_guess_the_same_char" classname="com.god.HangmenTest" time="0.0"/>
+  <testcase name="show_true_when_guess_right_the_word" classname="com.god.HangmenTest" time="0.0"/>
+  <testcase name="show_properties_when_word_is_application" classname="com.god.HangmenTest" time="0.0"/>
+  <testcase name="show_guess_word_when_guess_char_is_p" classname="com.god.HangmenTest" time="0.0"/>
+  <testcase name="show_false_when_times_out_put" classname="com.god.HangmenTest" time="0.0"/>
+  <testcase name="show_false_when_guess_wrong_the_word" classname="com.god.HangmenTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
